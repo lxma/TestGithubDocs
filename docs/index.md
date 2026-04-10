@@ -4,6 +4,8 @@ title: My Docs Home
 
 # My Docs
 
+And that's the first change.
+
 Welcome to the documentation site.
 
 - [Getting started](getting-started.md)
